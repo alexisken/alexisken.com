@@ -35,3 +35,18 @@ ul li a i:hover {
     opacity: .7;
 }
 
+body, html {
+    height: 100%;
+}
+.bg { 
+    /* The image used */
+    background-image: url(static/images/bgpic.jpg);
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
