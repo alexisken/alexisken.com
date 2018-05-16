@@ -17,8 +17,8 @@ html * {
 body {
   font-size: 100%;
   font-family: "Source Sans Pro", sans-serif;
-  color: #2c3e51;
-  background-color: #2c3e51;
+  color: #B82E6E;
+  background-color: #A8D7ED;
 }
 
 a {
@@ -55,8 +55,8 @@ Main components
 -------------------------------- */
 header {
   position: relative;
-  height: 400px;
-  background: white;
+  height: 200px;
+  background: #30302C;
   text-align: center;
   margin-bottom: 1em;
   padding-top: 3em;
