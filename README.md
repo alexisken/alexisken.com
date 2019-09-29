@@ -1,4 +1,4 @@
 # alexisken.com
-My personal website. 
+My personal website. Redirects to isken.dev.
 
-Note: the "Smart Fixed Navigation" was inspired by CodyHouse (codyhouse.co).
+Blown up and recreated September 2019.
