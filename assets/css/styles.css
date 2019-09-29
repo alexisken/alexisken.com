@@ -25,19 +25,18 @@ body {
 
 .floated {
     float: right;
-    width: 20%;
-    height: auto;
+    margin-right: 10px;
 }
 
 @media screen and (min-width: 1px) {      
   .hometext {
-    max-width: 90%;
+    max-width: 85%;
   }
 }
 
 @media screen and (min-width: 600px) {      
     .hometext {
-      max-width: 80%;
+      max-width: 70%;
     }
   }
 
