@@ -25,7 +25,8 @@ body {
 
 .floated {
     float: right;
-    margin-left: 30px;
+    margin-left: 20px;
+    margin-bottom: 10px;
 
 }
 
