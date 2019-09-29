@@ -30,6 +30,7 @@ body {
 
 }
 
+
 @media screen and (min-width: 1px) {      
   .hometext {
     max-width: 85%;
@@ -50,6 +51,12 @@ body {
     }
   }
 
+  @media screen and (min-width: 900px) {
+    #pic {
+      width: 300px;
+      height: auto;
+    }
+  }
   
 .sprite {
     position: relative;
